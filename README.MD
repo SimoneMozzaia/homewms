@@ -16,6 +16,7 @@
 - [Basic Features](#basic-features)
 - [Supported Platforms](#supported-platforms)
 - [Technology Stack](#technology-stack)
+- [Current Status](#current-status)
 
 ## Requirements
 We want to design a simple WMS web application that will allow the users to login, create some items and perform all the storage operations.
@@ -34,6 +35,9 @@ For now, the application will be usable via browser only
 ## Technology Stack
 The web app will be written in Python FastAPI (Backend) and React (Frontend).
 In the future, the entire DevOps CI-CD cycle will be managed through Google Cloud, Jira and Jenkins
+
+## Current Status
+Development of Basic Features is in progress
 
 ## Last Update
 2024-06-16
