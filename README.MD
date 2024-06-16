@@ -27,7 +27,11 @@ Users will be able to:
 - Create, delete and categorize the item(s)
 - Create, delete and move the stock
 
-Check the API documentation for more
+Check the API documentation and the following files for more:
+- [HOMEPAGE](project_analysis/HOMEPAGE.MD)
+- [USER](project_analysis/USER.MD)
+- [ITEM](project_analysis/ITEM.MD)
+- [STOCK](project_analysis/STOCK.MD)
 
 ## Supported Platforms
 For now, the application will be usable via browser only
